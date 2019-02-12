@@ -1,0 +1,10 @@
+<mvc:View
+	controllerName="wip.controller.Object"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:semantic="sap.m.semantic"
+	xmlns:footerbar="sap.ushell.ui.footerbar">
+
+	
+
+</mvc:View>
